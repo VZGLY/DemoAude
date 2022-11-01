@@ -1,0 +1,12 @@
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\bin\Debug\net6.0\DemoAude - Domain.deps.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\bin\Debug\net6.0\DemoAude - Domain.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\bin\Debug\net6.0\DemoAude - Domain.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\obj\Debug\net6.0\DemoAude - Domain.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\obj\Debug\net6.0\DemoAude - Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\obj\Debug\net6.0\DemoAude - Domain.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\obj\Debug\net6.0\DemoAude - Domain.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\obj\Debug\net6.0\DemoAude - Domain.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\obj\Debug\net6.0\DemoAude - Domain.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\obj\Debug\net6.0\refint\DemoAude - Domain.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\obj\Debug\net6.0\DemoAude - Domain.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - Domain\obj\Debug\net6.0\ref\DemoAude - Domain.dll

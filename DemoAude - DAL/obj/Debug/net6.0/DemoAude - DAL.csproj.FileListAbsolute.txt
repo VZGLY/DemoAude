@@ -1,0 +1,15 @@
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\bin\Debug\net6.0\DemoAude - DAL.deps.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\bin\Debug\net6.0\DemoAude - DAL.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\bin\Debug\net6.0\DemoAude - DAL.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\bin\Debug\net6.0\DemoAude - Domain.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\bin\Debug\net6.0\DemoAude - Domain.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\DemoAude - DAL.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\DemoAude - DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\DemoAude - DAL.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\DemoAude - DAL.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\DemoAude - DAL.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\DemoAude - DAL.csproj.CopyComplete
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\DemoAude - DAL.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\refint\DemoAude - DAL.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\DemoAude - DAL.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - DAL\obj\Debug\net6.0\ref\DemoAude - DAL.dll

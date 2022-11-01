@@ -1,0 +1,17 @@
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\bin\Debug\net6.0\DemoAude - BLL.deps.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\bin\Debug\net6.0\DemoAude - BLL.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\bin\Debug\net6.0\DemoAude - BLL.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\bin\Debug\net6.0\DemoAude - DAL.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\bin\Debug\net6.0\DemoAude - Domain.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\bin\Debug\net6.0\DemoAude - DAL.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\bin\Debug\net6.0\DemoAude - Domain.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\DemoAude - BLL.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\DemoAude - BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\DemoAude - BLL.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\DemoAude - BLL.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\DemoAude - BLL.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\DemoAude - BLL.csproj.CopyComplete
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\DemoAude - BLL.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\refint\DemoAude - BLL.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\DemoAude - BLL.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - BLL\obj\Debug\net6.0\ref\DemoAude - BLL.dll

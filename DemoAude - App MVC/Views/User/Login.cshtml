@@ -1,0 +1,24 @@
+﻿@model DemoAude___Domain.ViewModel.UserLoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<form asp-action="Login">
+    
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email">
+    </div>
+    
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password">
+    </div>
+    
+    
+    
+    <input type="submit">
+    
+    
+</form>

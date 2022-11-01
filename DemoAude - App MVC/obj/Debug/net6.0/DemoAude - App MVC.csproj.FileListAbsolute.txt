@@ -1,0 +1,39 @@
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - App MVC.staticwebassets.runtime.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - App MVC.exe
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - App MVC.deps.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - App MVC.runtimeconfig.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - App MVC.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - App MVC.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - BLL.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - DAL.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - Domain.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - BLL.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - DAL.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\bin\Debug\net6.0\DemoAude - Domain.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.RazorAssemblyInfo.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.RazorAssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\scopedcss\bundle\DemoAude - App MVC.styles.css
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\scopedcss\projectbundle\DemoAude - App MVC.bundle.scp.css
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.csproj.CopyComplete
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\refint\DemoAude - App MVC.dll
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.pdb
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\DemoAude - App MVC.genruntimeconfig.cache
+C:\Users\GavinC\RiderProjects\DemoAude\DemoAude - App MVC\obj\Debug\net6.0\ref\DemoAude - App MVC.dll
